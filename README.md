@@ -41,5 +41,5 @@
 
 ## 📊 GitHub Stats
 
-[![Darius' GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=berkeley_upe&theme=dark)](https://git.io/streak-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dariuscooly&layout=compact&theme=tokyonight)
+![Darius' GitHub stats](https://github-readme-stats.vercel.app/api?username=berkeley_upe&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=berkeley_upe&layout=compact&theme=tokyonight)
