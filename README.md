@@ -41,5 +41,5 @@
 
 ## 📊 GitHub Stats
 
-![Darius' GitHub stats](https://github-readme-stats.vercel.app/api?username=berkeley_upe&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=berkeley_upe&layout=compact&theme=tokyonight)
+![Darius' GitHub stats](https://github-readme-stats.vercel.app/api?username=Dariuscooly&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dariuscooly&layout=compact&theme=tokyonight)
