@@ -36,10 +36,3 @@
 ![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-![Darius' GitHub stats](https://github-readme-stats.vercel.app/api?username=berkeley_upe&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=berkeley_upe&layout=compact&theme=tokyonight)
